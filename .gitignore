@@ -1,0 +1,28 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code files
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Reports
+/reports/
+/test-output/
+/extent-report/
+
+# Environment files
+.env
